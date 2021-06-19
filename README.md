@@ -1,5 +1,6 @@
 # BTCwithNeuralNet
 # 使用神经网络(Neural Net)预测比特币价格
+* 项目代码压缩包密码见简历
 ## 工具：
 
 Python  Requests、Pandas、Numpy、Matplotlib等研究库；
